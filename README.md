@@ -23,6 +23,8 @@ technical_background : [
 
 ---
 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 tools :
 <p align="left">
