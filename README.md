@@ -2,23 +2,23 @@ name: "Noah Heraud"
 location : "Lyon, France."  
 current_job : "full-stack developper"  
 education : [  
-&nbsp;"STI2D baccalaureate (well)",  
-&nbsp;"IUT IT Lyon1"  
+&nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
+&nbsp;&nbsp;&nbsp;&nbsp;"IUT IT Lyon1"  
 ]  
 fields_of_interest : [  
-&nbsp;"Web devloppement",  
-&nbsp;"DevOps",  
-&nbsp;"UI/UX",  
-&nbsp;"Pentest",  
-&nbsp;"Data science",  
-&nbsp;"Machine learning"  
+&nbsp;&nbsp;&nbsp;&nbsp;"Web devloppement",  
+&nbsp;&nbsp;&nbsp;&nbsp;"DevOps",  
+&nbsp;&nbsp;&nbsp;&nbsp;"UI/UX",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Pentest",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Data science",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Machine learning"  
 ]  
 technical_background : [  
-&nbsp;"Minecraft mod devlopper (+100k downloads)",  
-&nbsp;"Web devlopper & Webmaster for Minecraft Servers",  
-&nbsp;"Web devlopper (showcase sites) for SME",  
-&nbsp;"Web devlopper (shops) in freelance",  
-&nbsp;"Web devlopper in web3, and Solidity smart contract devlopper"  
+&nbsp;&nbsp;&nbsp;&nbsp;"Minecraft mod devlopper (+100k downloads)",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Web devlopper & Webmaster for Minecraft Servers",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Web devlopper (showcase sites) for SME",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Web devlopper (shops) in freelance",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Web devlopper in web3, and Solidity smart contract devlopper"  
 ]  
 
 ---
