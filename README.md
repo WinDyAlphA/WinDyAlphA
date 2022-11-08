@@ -1,5 +1,5 @@
-name : "Noah Heraud"
-email : "heraud260@gmail.com"
+name : "Noah Heraud". 
+email : "heraud260@gmail.com"  
 location : "Lyon, France."  
 current_job : "full-stack developer"  
 education : [  
