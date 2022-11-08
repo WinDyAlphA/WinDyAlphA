@@ -69,5 +69,5 @@ other :
 ---  
 
 
-[![WinDyAlphA's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinDyAlphA)](https://github.com/WinDyAlphA/github-readme-stats)
+[![WinDyAlphA's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinDyAlphA)](https://github.com/WinDyAlphA/WinDyAlphA)
 
