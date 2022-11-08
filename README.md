@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @WinDyAlphA
-- 👀 I am a versatile developer, interested in tech, security and blockchain
-- 🌱 I’m currently learning javascript ES6
-- 📫 How to reach me : heraud260@gmail.com
+name: "Noah Heraud"
+location : "Lyon, France."
+current_job : "full-stack developper"
+education : [
+  "STI2D baccalaureate (well)",
+  "IUT IT Lyon1"
+]
+fields_of_interest : [
+  "Web devloppement",
+  "DevOps",
+  "UI/UX",
+  "Pentest",
+  "Data science",
+  "Machine learning"
+]
+technical_background : [
+  "Minecraft mod devlopper (+100k downloads)",
+  "Web devlopper & Webmaster for Minecraft Servers",
+  "Web devlopper (showcase sites) for SME",
+  "Web devlopper (shops) in freelance",
+  "Web devlopper in web3, and Solidity smart contract devlopper"
+]
 
-<!---
-✨ special ✨ 
---->
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
