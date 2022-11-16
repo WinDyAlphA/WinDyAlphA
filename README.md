@@ -21,6 +21,12 @@ technical_background : [
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer (shops) in freelance",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer in web3, and Solidity smart contract developer"  
 ]  
+Learning courses : [  
+&nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox +30 rooted machines",  
+&nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe +20 rooted machines",  
+&nbsp;&nbsp;&nbsp;&nbsp;"CodingGame +25 problems solved",  
+&nbsp;&nbsp;&nbsp;&nbsp;"leetCode +5/150 interview question (just started)",  
+]  
 
 ---
 
