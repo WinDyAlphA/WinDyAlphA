@@ -26,7 +26,7 @@ Learning courses : [
 &nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +30 rooted machines",  
 &nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: +20 rooted machines",  
 &nbsp;&nbsp;&nbsp;&nbsp;"CodingGame: +25 problems solved",  
-&nbsp;&nbsp;&nbsp;&nbsp;"leetCode: +5/150 interview question (just started)",  
+&nbsp;&nbsp;&nbsp;&nbsp;"leetCode: +10/150 interview question (just started)",  
 ]  
 
 ---
