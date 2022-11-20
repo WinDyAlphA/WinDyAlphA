@@ -1,7 +1,7 @@
 name : "Noah Heraud"  
 email : "heraud260@gmail.com"  
 location : "Lyon, France."  
-current_job : "full-stack developer"
+current_job : "full-stack developer"  
 fun_fact : "i know how to exit Vim"
 education : [  
 &nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
