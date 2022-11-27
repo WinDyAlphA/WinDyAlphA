@@ -1,14 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Noah+Heraud.)](https://git.io/typing-svg)
 
-email : "heraud260@gmail.com"  
-location : "Lyon, France."  
-current_job : "full-stack developer"  
-fun_fact : "i know how to exit Vim"  
-education : [  
+**email :** "heraud260@gmail.com"  
+**location :** "Lyon, France."  
+**current_job :** "full-stack developer"  
+**fun_fact :** "i know how to exit Vim"  
+**education :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
 &nbsp;&nbsp;&nbsp;&nbsp;"IUT IT Lyon1"  
 ]  
-fields_of_interest : [  
+**fields_of_interest :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developement",  
 &nbsp;&nbsp;&nbsp;&nbsp;"DevOps",  
 &nbsp;&nbsp;&nbsp;&nbsp;"UI/UX",  
@@ -16,14 +16,14 @@ fields_of_interest : [
 &nbsp;&nbsp;&nbsp;&nbsp;"Data science",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Machine learning"  
 ]  
-technical_background : [  
+**technical_background :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"Minecraft mod developer (+100k downloads)",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer & Webmaster for Minecraft Servers",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer (showcase sites) for SME",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer (shops) in freelance",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer in web3, and Solidity smart contract developer"  
 ]  
-Learning courses : [  
+**Learning courses :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +30 rooted machines",  
 &nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: +20 rooted machines",  
 &nbsp;&nbsp;&nbsp;&nbsp;"CodingGame: +25 problems solved",  
