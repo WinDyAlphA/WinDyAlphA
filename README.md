@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Noah+Heraud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Noah+Heraud.+A+fullstack+developer)](https://git.io/typing-svg)
 
 email : "heraud260@gmail.com"  
 location : "Lyon, France."  
