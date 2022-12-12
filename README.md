@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"Pentest",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Data science",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Machine learning"  
-]  
+] 
 **technical_background :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"Minecraft mod developer (+100k downloads)",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer & Webmaster for Minecraft Servers",  
