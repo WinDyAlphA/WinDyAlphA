@@ -7,7 +7,7 @@
 **education :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
 &nbsp;&nbsp;&nbsp;&nbsp;"IUT IT Lyon1"  
-]    
+]     
 **fields_of_interest :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developement",  
 &nbsp;&nbsp;&nbsp;&nbsp;"DevOps",  
