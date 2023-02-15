@@ -3,7 +3,8 @@
 **email :** "heraud260@gmail.com"  
 **location :** "Lyon, France."  
 **current_job :** "full-stack developer"  
-**fun_fact :** "i know how to exit Vim"  
+**fun_fact :** "I know how to exit Vim"
+**fun_fact 2 :** "My laptop was stolen that's why I've been in quite inactive"  
 **education :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
 &nbsp;&nbsp;&nbsp;&nbsp;"IUT IT Lyon1"  
