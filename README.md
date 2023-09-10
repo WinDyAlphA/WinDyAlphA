@@ -10,9 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"IUT IT Lyon1"  
 ]      
 **fields_of_interest :** [  
-&nbsp;&nbsp;&nbsp;&nbsp;"Web developement",  
-&nbsp;&nbsp;&nbsp;&nbsp;"DevOps",  
-&nbsp;&nbsp;&nbsp;&nbsp;"UI/UX",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Cybersecurity"  
 &nbsp;&nbsp;&nbsp;&nbsp;"Pentest",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Data science",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Machine learning"  
@@ -22,13 +20,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer & Webmaster for Minecraft Servers",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer (showcase sites) for SME",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer (shops) in freelance",  
-&nbsp;&nbsp;&nbsp;&nbsp;"Web developer in web3, and Solidity smart contract developer"  
+&nbsp;&nbsp;&nbsp;&nbsp;"Web developer in web3, and Solidity smart contract developer",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Full-stack developer at Axxès"  
 ]  
 **Learning courses :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +30 rooted machines",  
-&nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: +20 rooted machines",  
+&nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: top 5%",  
 &nbsp;&nbsp;&nbsp;&nbsp;"CodingGame: +25 problems solved",  
-&nbsp;&nbsp;&nbsp;&nbsp;"leetCode: +20/150 interview question (just started)",  
+&nbsp;&nbsp;&nbsp;&nbsp;"leetCode: +20/150 interview question (just started)"  
 ]  
 
 ---
