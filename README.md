@@ -24,8 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"Full-stack developer at Axxès"  
 ]  
 **Learning courses :** [  
-&nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +30 rooted machines",  
-&nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: top 5%",  
+&nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +15 rooted machines",  
+&nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: top 12%",  
 &nbsp;&nbsp;&nbsp;&nbsp;"CodingGame: +25 problems solved",  
 &nbsp;&nbsp;&nbsp;&nbsp;"leetCode: +20/150 interview question (just started)"  
 ]  
