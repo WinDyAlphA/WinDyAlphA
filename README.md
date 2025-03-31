@@ -7,7 +7,7 @@
 **education :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
 &nbsp;&nbsp;&nbsp;&nbsp;"BUT @IUT IT Lyon1",  
-&nbsp;&nbsp;&nbsp;&nbsp;"Master Cyberscurity @OteriaCS"  
+&nbsp;&nbsp;&nbsp;&nbsp;"Master Cybersecurity @OteriaCS"  
 ]      
 **fields_of_interest :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"Cybersecurity"  
