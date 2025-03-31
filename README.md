@@ -6,7 +6,8 @@
 **fun_fact :** "I know how to exit Vim"    
 **education :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
-&nbsp;&nbsp;&nbsp;&nbsp;"IUT IT Lyon1"  
+&nbsp;&nbsp;&nbsp;&nbsp;"BUT @IUT IT Lyon1",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Master Cyberscurity @OteriaCS"  
 ]      
 **fields_of_interest :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"Cybersecurity"  
