@@ -3,8 +3,7 @@
 **email :** "heraud260@gmail.com"  
 **location :** "Lyon, France."  
 **current_job :** "full-stack developer"  
-**fun_fact :** "I know how to exit Vim"   
-**fun_fact_2 :** "My laptop was stolen that's why I've been in quite inactive"  
+**fun_fact :** "I know how to exit Vim"    
 **education :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
 &nbsp;&nbsp;&nbsp;&nbsp;"IUT IT Lyon1"  
@@ -21,13 +20,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer (showcase sites) for SME",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer (shops) in freelance",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer in web3, and Solidity smart contract developer",  
-&nbsp;&nbsp;&nbsp;&nbsp;"Full-stack developer at Axxès"  
+&nbsp;&nbsp;&nbsp;&nbsp;"Full-stack developer @Axxès",  
+&nbsp;&nbsp;&nbsp;&nbsp;"CISO assistant @Wifirst"  
 ]  
 **Learning courses :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +15 rooted machines",  
 &nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: top 12%",  
 &nbsp;&nbsp;&nbsp;&nbsp;"CodingGame: +25 problems solved",  
-&nbsp;&nbsp;&nbsp;&nbsp;"leetCode: +20/150 interview question (just started)"  
 ]  
 
 ---
