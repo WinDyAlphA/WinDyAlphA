@@ -25,8 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"Junior CISO @Wifirst"  
 ]  
 **Learning courses :** [  
-&nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +15 rooted machines",  
-&nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: top 12%",  
+&nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +15 rooted machines, DANTE 75%, ZEPHYR ASAP, CPTS SOON",  
+&nbsp;&nbsp;&nbsp;&nbsp;"TryHackMe: top 1000",  
 &nbsp;&nbsp;&nbsp;&nbsp;"CodingGame: +25 problems solved",  
 ]  
 
@@ -37,7 +37,8 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 tools :
 <p align="left">
-
+  
+<img src="https://img.icons8.com/color/512/nmap.png" alt="vscode" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="postman" width="45" height="45"/>
