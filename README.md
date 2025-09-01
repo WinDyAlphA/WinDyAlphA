@@ -1,4 +1,4 @@
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/23ab3d6a-90bf-47fd-a2d9-b8a9759caa2d" />[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Noah+Heraud.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Noah+Heraud.)](https://git.io/typing-svg)
   
 **email :** "heraud260@gmail.com"  
 **location :** "Lyon, France."  
