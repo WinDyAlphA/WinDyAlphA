@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Noah+Heraud.)](https://git.io/typing-svg)
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/23ab3d6a-90bf-47fd-a2d9-b8a9759caa2d" />[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Noah+Heraud.)](https://git.io/typing-svg)
   
 **email :** "heraud260@gmail.com"  
 **location :** "Lyon, France."  
@@ -43,8 +43,16 @@ tools :
 <img src="https://www.acceis.fr/wp-content/uploads/2022/08/ffuf_run_logo_600.png" alt="vscode" width="45" height="45" />
 <img src="https://www.coresecurity.com/sites/default/files/2024-10/impacket-by-fortra-horizontal-forrest-green-logo-100.jpg" alt="vscode" width="45" height="45" />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwhgs1LL6ioBYP2Hwg2RTE0WF3kpwr_JF-w&s" alt="vscode" width="45" height="45" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJzkDKpUyJ0aNjvFw4yH0DZGxfTqymkNilA&s" alt="vscode" width="45" height="45" />
+<img src="https://blog.zenika.com/wp-content/uploads/2017/07/metasploit-1.png" alt="vscode" width="45" height="45" />
+<img src="https://beta.hackndo.com/assets/uploads/2019/07/bloodhound.png" alt="vscode" width="45" height="45" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAnllD4MJn72ZR9F99nY2B5GKeuygxdV6KA&s" alt="vscode" width="45" height="45" />
+<img src="https://avatars.githubusercontent.com/u/41304335?v=4" alt="vscode" width="45" height="45" />
+<img src="https://repository-images.githubusercontent.com/165548191/20454080-42d8-11ea-9076-57d151462f64" alt="vscode" width="45" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png" alt="vscode" width="45" height="45" />
+<img src="https://binary.ninja/icons/android-chrome-512x512.png" alt="vscode" width="45" height="45" />
 
-          
+
 </p>
 
           
