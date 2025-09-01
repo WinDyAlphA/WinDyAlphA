@@ -36,6 +36,13 @@ tools :
 <p align="left">
   
 <img src="https://img.icons8.com/color/512/nmap.png" alt="vscode" width="45" height="45" />
+<img src="https://images.icon-icons.com/1735/PNG/512/burpsuite_113238.png" alt="vscode" width="45" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/640px-Sqlmap_logo.png" alt="vscode" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/wpscanteam/wpscan/gh-pages/images/wpscan_logo.png" alt="vscode" width="45" height="45" />
+<img src="https://tnpitsecurity.com/images/backgrounds/ligolo.png" alt="vscode" width="45" height="45" />
+<img src="https://www.acceis.fr/wp-content/uploads/2022/08/ffuf_run_logo_600.png" alt="vscode" width="45" height="45" />
+<img src="https://www.coresecurity.com/sites/default/files/2024-10/impacket-by-fortra-horizontal-forrest-green-logo-100.jpg" alt="vscode" width="45" height="45" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwhgs1LL6ioBYP2Hwg2RTE0WF3kpwr_JF-w&s" alt="vscode" width="45" height="45" />
 
           
 </p>
@@ -64,6 +71,7 @@ languages :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
@@ -76,7 +84,6 @@ other :
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="45" height="45"/>
           
           
