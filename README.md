@@ -2,7 +2,7 @@
   
 **email :** "heraud260@gmail.com"  
 **location :** "Lyon, France."  
-**current_job :** "full-stack developer"  
+**current_job :** "junior CISO"  
 **fun_fact :** "I know how to exit Vim"    
 **education :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"STI2D baccalaureate (well)",  
@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer (shops) in freelance",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Web developer in web3, and Solidity smart contract developer",  
 &nbsp;&nbsp;&nbsp;&nbsp;"Full-stack developer @Axxès",  
-&nbsp;&nbsp;&nbsp;&nbsp;"CISO assistant @Wifirst"  
+&nbsp;&nbsp;&nbsp;&nbsp;"Junior CISO @Wifirst"  
 ]  
 **Learning courses :** [  
 &nbsp;&nbsp;&nbsp;&nbsp;"HackTheBox: +15 rooted machines",  
